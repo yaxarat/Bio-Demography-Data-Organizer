@@ -59,7 +59,7 @@ The files are in the same formatting as original, where each column is ordered a
 Frequency and fraction data from step2 module is located below [freqfrq](https://gitlab.com/ya.atajan/BDLab-data-organizer/tree/master/freqfrq) folder. The folder structure then follows the order of "strain category -> strain name -> frequency/fraction type -> file".
 For example, following file path will lead to the mortality frequency file for the strain N2 under * 15 degrees-A\_E19\_112709_15(G1)r category:
 
-![image](images/f1.PNG)
+![image](images/fr1.PNG)
 
 Frequency data shows frequency of either mortality or survival (still alive) at given date for the specific strand. For N2 i mentioned above, mortality frequency looks something like this:
 
