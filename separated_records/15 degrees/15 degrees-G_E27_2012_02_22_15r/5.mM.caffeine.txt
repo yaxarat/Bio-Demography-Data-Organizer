@@ -1,0 +1,16 @@
+1	5.mM.caffeine	22
+2	5.mM.caffeine	12
+3	5.mM.caffeine	17
+4	5.mM.caffeine	22
+5	5.mM.caffeine	28
+6	5.mM.caffeine	28
+7	5.mM.caffeine	31
+8	5.mM.caffeine	45
+9	5.mM.caffeine	52
+10	5.mM.caffeine	56
+11	5.mM.caffeine	56
+12	5.mM.caffeine	17
+13	5.mM.caffeine	17
+14	5.mM.caffeine	19
+15	5.mM.caffeine	19
+16	5.mM.caffeine	22

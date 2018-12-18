@@ -1,0 +1,13 @@
+1	WT.daf-2(RNAi)	23
+2	WT.daf-2(RNAi)	26
+3	WT.daf-2(RNAi)	30
+4	WT.daf-2(RNAi)	33
+5	WT.daf-2(RNAi)	35
+6	WT.daf-2(RNAi)	35
+7	WT.daf-2(RNAi)	35
+8	WT.daf-2(RNAi)	12
+9	WT.daf-2(RNAi)	23
+10	WT.daf-2(RNAi)	26
+11	WT.daf-2(RNAi)	28
+12	WT.daf-2(RNAi)	30
+13	WT.daf-2(RNAi)	33

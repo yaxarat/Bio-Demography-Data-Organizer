@@ -1,0 +1,15 @@
+1	WT.rpl-6(RNAi).20dgrC	17
+2	WT.rpl-6(RNAi).20dgrC	17
+3	WT.rpl-6(RNAi).20dgrC	17
+4	WT.rpl-6(RNAi).20dgrC	21
+5	WT.rpl-6(RNAi).20dgrC	21
+6	WT.rpl-6(RNAi).20dgrC	21
+7	WT.rpl-6(RNAi).20dgrC	24
+8	WT.rpl-6(RNAi).20dgrC	24
+9	WT.rpl-6(RNAi).20dgrC	24
+10	WT.rpl-6(RNAi).20dgrC	24
+11	WT.rpl-6(RNAi).20dgrC	24
+12	WT.rpl-6(RNAi).20dgrC	24
+13	WT.rpl-6(RNAi).20dgrC	27
+14	WT.rpl-6(RNAi).20dgrC	27
+15	WT.rpl-6(RNAi).20dgrC	29
