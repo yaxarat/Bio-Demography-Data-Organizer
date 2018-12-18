@@ -46,9 +46,11 @@ Original data is to be located within the [original_records](https://gitlab.com/
 Splitted data from the step 1 module will be located in the [separated_records](https://gitlab.com/ya.atajan/BDLab-data-organizer/tree/master/separated_records) folder. Each strain is separated into their respective temprature environment and to respective categories as below:
 
 ![image](images/sep1.PNG)
+
 They are then further devided into specific strands:
 
 ![image](images/sep2.PNG)
+
 The files are in the same formatting as original, where each column is ordered as [count], [strain name], [age at  death].
 
 ![image](images/sep3.PNG)
